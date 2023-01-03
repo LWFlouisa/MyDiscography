@@ -7,8 +7,7 @@ body {
   font-size: 15px;
   color: #20231E;
   padding-top: 20px;
-  background-image: url({{ site.url }}/images/grid.png);
-  background-color: #31352E;
+  background-color: #1B1E1F;
 }
 
 .panel {
