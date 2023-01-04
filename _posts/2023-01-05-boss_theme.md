@@ -1,0 +1,13 @@
+---
+layout: comic
+date:   "Wed Jan  4 10:20:54 AM CST 2023"
+title: "PAGE TWO"
+categories: page
+permalink: /002
+---
+![PAGE ONE]({{ site.url }}/pages/002.png)
+
+<center><audio controls>
+  <source src="https://lwflouisa.github.io/MyDiscography/audio/boss1.mp3" type="audio/ogg">
+Your browser does not support the audio element.
+</audio></center>
