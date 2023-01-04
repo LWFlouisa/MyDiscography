@@ -33,6 +33,6 @@ The midnight shower rains hard.
 Tonight.
 
 ### LIGHT NOVEL AND WEBCOMIC
-[Webcomic](https://lwflouisa.github.io/UploadedFairy/)
-[Light Novel](https://lwflouisa.github.io/UploadedFairyOELN/)
+[Webcomic](https://lwflouisa.github.io/UploadedFairy/)<br />
+[Light Novel](https://lwflouisa.github.io/UploadedFairyOELN/)<br />
 [K-Drama / J-Drama](https://lwflouisa.github.io/UploadedFairyOELN/screenplay.html)
