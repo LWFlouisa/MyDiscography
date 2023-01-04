@@ -14,20 +14,20 @@ Your browser does not support the audio element.
 
 ### SONNET DE RENGA, PLUIE DE NOIR [ OS PEHUMOS ENEROS ]
 
-Its raining
-in Georgia.
-Its raining
-with hard blowing wind gusting.
+Its raining<br />
+in Georgia.<br />
+Its raining<br />
+with hard blowing wind gusting.<br />
 The midnight shower rains hard.
 
-Hammering, pattering, whispering.
-At morning it fades.
+Hammering, pattering, whispering.<br />
+At morning it fades.<br />
 Hammering, pattering, whispering.
 
-Its raining
-in Georgia.
-Its raining
-with hard blowing wind gusting.
+Its raining<br />
+in Georgia.<br />
+Its raining<br />
+with hard blowing wind gusting.<br />
 The midnight shower rains hard.
 
 Tonight.
