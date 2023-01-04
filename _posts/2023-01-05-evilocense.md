@@ -1,7 +1,7 @@
 ---
 layout: comic
 date:   "Wed Jan  4 10:20:54 AM CST 2023"
-title: "PAGE THREE EVILOCENSE"
+title: "SONG ONE EVILOCENSE"
 categories: page
 permalink: /003
 ---
