@@ -11,3 +11,28 @@ permalink: /002
   <source src="https://lwflouisa.github.io/MyDiscography/audio/SonnetDeRingo_HumanPlayed.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio></center>
+
+### SONNET DE RENGA, PLUIE DE NOIR [ OS PEHUMOS ENEROS ]
+
+Its raining
+in Georgia.
+Its raining
+with hard blowing wind gusting.
+The midnight shower rains hard.
+
+Hammering, pattering, whispering.
+At morning it fades.
+Hammering, pattering, whispering.
+
+Its raining
+in Georgia.
+Its raining
+with hard blowing wind gusting.
+The midnight shower rains hard.
+
+Tonight.
+
+### LIGHT NOVEL AND WEBCOMIC
+[Webcomic](https://lwflouisa.github.io/UploadedFairy/)
+[Light Novel](https://lwflouisa.github.io/UploadedFairyOELN/)
+[K-Drama / J-Drama](https://lwflouisa.github.io/UploadedFairyOELN/screenplay.html)
