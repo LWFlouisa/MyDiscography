@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Music And Webcomic Site"
+title: "Mes Musette: Les Rondelaiku De Noires"
 tab_title: My webcomics and discography. #This text shows up on the browser tab
 email:
 description: A blend of music page and webcomic.
