@@ -5,13 +5,13 @@
 body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
-  color: #20231E;
+  color: #CD9381;
   padding-top: 20px;
-  background-color: #1B1E1F;
+  background-color: #7A4322;
 }
 
 .panel {
-  background-color: #35393C;
+  background-color: #5F341B;
   min-height: 500px;
 }
 
@@ -73,20 +73,20 @@ body {
 
 .jumbotron h1 {
   font-family: 'Fredoka One', cursive;
-  color: #3E4346;
+  color: #CD9381;
 }
 
 .jumbotron p {
   font-family: 'Roboto', sans-serif;
-  color: #FF1912;
+  color: #B96634;
 }
 
 .jumbotron a {
-  color: #82B344;
+  color: #A0582D;
 }
 
 .jumbotron a:visited {
-  color: #82B344;
+  color: #8D4E28;
 }
 
 
