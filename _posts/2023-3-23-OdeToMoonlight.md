@@ -17,5 +17,5 @@ the corpses under the desert.<br />
 Under moonlight.
 
 The snow now falling<br />
-gives me a short chilling wing<br /.
+gives me a short chilling wing<br />
 with crows on signs.
