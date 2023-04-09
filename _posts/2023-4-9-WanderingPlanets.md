@@ -7,5 +7,5 @@ permalink: /009
 ---
 <iframe scrolling="no" id="hearthis_at_track_8690954" width="100%" height="150" src="https://app.hearthis.at/embed/8690954/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/todiaspora/wandering-planets/" target="_blank">Wandering Planets</a> <span>by</span><a href="https://hearthis.at/todiaspora/" target="_blank" >ToDiaspora</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
 
-![Sheet Music PAGE ONE]()
-![Sheet Music PAGE TWO]()
+<img src="https://raw.githubusercontent.com/LWFlouisa/MyDiscography/main/images/WanderingPlanets/Wandering%20Planets-1.png" width="75%"></img)
+<img src="https://raw.githubusercontent.com/LWFlouisa/MyDiscography/main/images/WanderingPlanets/Wandering%20Planets-2.png" width="75%"></img)
