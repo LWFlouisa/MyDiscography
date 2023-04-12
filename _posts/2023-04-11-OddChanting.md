@@ -5,4 +5,4 @@ title: "Odd Chanting: Dark Psychodelia"
 categories: page
 permalink: /012
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fBuenkPGnCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe scrolling="no" id="hearthis_at_track_8708485" width="100%" height="150" src="https://app.hearthis.at/embed/8708485/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/todiaspora/oddchanting/" target="_blank">Odd Chanting</a> <span>by</span><a href="https://hearthis.at/todiaspora/" target="_blank" >ToDiaspora</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
