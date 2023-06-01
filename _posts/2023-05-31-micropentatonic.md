@@ -1,6 +1,6 @@
 ---
 layout: comic
-date:   ""
+date:   "Thu Jun 1 07:59:48 AM CDT 2023"
 title: "Micropentatonic"
 categories: page
 permalink: /008
